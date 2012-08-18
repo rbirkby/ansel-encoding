@@ -1,0 +1,4 @@
+﻿TODO: Write a Normalizing Composition Decoder which is a decorator to AnselDecoder
+It will only know about composing Unicode characters, but we have a database of
+possible decomposed unicode characters can be generated from ANSEL/USMARC. So, we only
+need to think about these.
