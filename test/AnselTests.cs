@@ -1,4 +1,5 @@
-﻿using System;
+﻿// Copyright (c) ThunderMain Ltd. All rights reserved. See LICENSE in the project root for license information.
+using System;
 using System.Text;
 using Xunit;
 
